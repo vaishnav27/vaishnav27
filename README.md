@@ -3,7 +3,7 @@
 <h3 align="center">Your work can wait..Unfortunately mine can't..</h3>
 <h3 align="right"> -- ~~~</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish21276&label=Profile%20views&color=0e75b6&style=flat" alt="ashish21276" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnav27&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnav27" /> </p>
 
 - 📫 How to reach me **vaishnavg200@gmail.com**
 
