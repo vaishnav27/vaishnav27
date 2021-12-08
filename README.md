@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghanshyam Vaishnav</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<h3 align="center">Be in present.</h3>
-<h3 align="right"> -- By ~</h3>
+<h3 align="center">A Passionate Backend Developer from India</h3>
+<h3 align="center">Your work can wait..Unfortunately mine can't..</h3>
+<h3 align="right"> -- ~~~</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish21276&label=Profile%20views&color=0e75b6&style=flat" alt="ashish21276" /> </p> -->
 
