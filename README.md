@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span>Ghanshyam Vaishnav <span/></h1>
+<h1 align="center">Hi 👋, I'm <b>Ghanshyam Vaishnav <b/></h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h3 align="center">“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”</h3>
 <h3 align="right"> -- ~</h3>
