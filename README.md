@@ -4,7 +4,6 @@
 <h3 align="right"> -- ~</h3>
   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishnav27)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnav27&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnav27" /> </p>
 
