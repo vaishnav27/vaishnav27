@@ -24,8 +24,3 @@
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vaishnav27&date_format=M%20j%5B%2C%20Y%5D)" alt="vaishnav27" /></p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaishnav27&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-  
-  
-<h2 align="center"> my current activity </h2>
-<a href="https://github.com/vaishnav27/github-readme-activity-graph"><img alt="vaishnav's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vaishnav27&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
