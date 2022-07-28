@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm <b>Ghanshyam Vaishnav <b/></h1>
+<h1 align="center">Hi 👋, I'm <b>Ghanshyam Vaishnav<b/></h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h3 align="center">“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”</h3>
 <h3 align="right"> -- ~</h3>
+  
+ <div align="center">
+  <a href="https://github.com/vaishnav27">
+  <img  src="https://github.com/vaishnav27/vaishnav27/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnav27&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnav27" /> </p>
 
